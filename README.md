@@ -25,7 +25,7 @@ Project Organization
 
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
-    │   ├── images       <- Data from third party sources.
+    │   ├── images          <- Data from third party sources.
     │   ├── metadata        <- Intermediate data that has been transformed.
     │   
     ├── models             <- Trained and serialized models, model predictions, or model summaries
