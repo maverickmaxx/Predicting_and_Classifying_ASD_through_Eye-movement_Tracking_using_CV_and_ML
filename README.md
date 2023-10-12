@@ -2,10 +2,10 @@
 
 MIDS Capstone project
 ------------
-Makanzie Muller
-Nina Hunag
-Jesse He
-Mohith Subbarao
+Makanzie Muller,
+Nina Hunag,
+Jesse He,
+Mohith Subbarao,
 Waqas Ali
 
 References
