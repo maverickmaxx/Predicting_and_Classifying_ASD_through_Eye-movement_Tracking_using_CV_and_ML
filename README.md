@@ -1,12 +1,8 @@
-# Predicting_and_Classifying_ASD_through_Eye-movement_Tracking_using_CV_and_ML
+## Predicting_and_Classifying_ASD_through_Eye-movement_Tracking_using_CV_and_ML
 
-MIDS Capstone project
+#### MIDS Capstone project - Computer Vision | Machine Learning
+#### Makanzie Muller | Nina Hunag | Jesse He | Mohith Subbarao | Waqas Ali
 ------------
-Makanzie Muller
-Nina Hunag
-Jesse He
-Mohith Subbarao
-Waqas Ali
 
 References
 ------------
