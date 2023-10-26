@@ -22,6 +22,8 @@ Project Organization
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   ├── images          <- Data from third party sources.
+    │       ├── rev0          <- Data Split - train:test:val::0.6:0.1:0.3
+    │       ├── rev1          <- Data Split - train:test::0.9:0.1
     │   ├── metadata        <- Intermediate data that has been transformed.
     │   
     ├── models             <- Trained and serialized models, model predictions, or model summaries
