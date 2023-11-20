@@ -19,17 +19,17 @@ https://docs.google.com/document/d/19Ig2KH7a97AFvgl5OH0AKu_khc6lP2Qwmul3UMv9Rqo/
 Project Organization
 ------------
 
-    ├── README.md          <- The top-level README for developers using this project.
+    ├── README.md             <- The top-level README for developers using this project.
     ├── data
-    │   ├── images          <- Data from third party sources, used is ViT and CNN
-    │       ├── rev0          <- Data Split - train:test:val::0.6:0.1:0.3
-    │       ├── rev1          <- Data Split - train:test::0.9:0.1
-    │   ├── metadata        <- Intermediate data that has been transformed.
-    │   ├── data_transformer<- Data used for training language based transformer model
-    │       ├── input.pt      <- Image coordinates saved in the fomr of tensor. Total number of coordinates are limited to 50.
-    │       ├── labels.pt     <- CARS value for each image, saved in the form of tensor. 
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    │   ├── images            <- Data from third party sources, used is ViT and CNN
+    │       ├── rev0            <- Data Split - train:test:val::0.6:0.1:0.3
+    │       ├── rev1            <- Data Split - train:test::0.9:0.1
+    │   ├── metadata          <- Intermediate data that has been transformed.
+    │   ├── data_transformer  <- Data used for training language based transformer model
+    │       ├── input.pt        <- Image coordinates saved in the fomr of tensor. Total number of coordinates are limited to 50.
+    │       ├── labels.pt       <- CARS value for each image, saved in the form of tensor. 
+    ├── models                <- Trained and serialized models, model predictions, or model summaries
+    ├── notebooks             <- Jupyter notebooks. Naming convention is a number (for ordering),
+    │                            the creator's initials, and a short `-` delimited description, e.g.
+    │                            `1.0-jqp-initial-data-exploration`.
   
